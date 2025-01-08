@@ -1,0 +1,97 @@
+@media screen and (min-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  .btn-banner {
+    font-size: 1.25rem;
+    outline: 0.125rem solid var(--clr-secondary);
+    outline-offset: 0.25rem;
+    padding: 0.75rem 1.25rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  .feature {
+    float: right;
+    width: 50%;
+  }
+
+  .product {
+    float: right;
+    width: 50%;
+    padding-left: 2rem;
+  }
+
+  .service-card {
+    float: right;
+    width: 45%;
+    margin-left: 5%;
+  }
+
+  .navbar{
+    width: 30vw;
+    max-width: 20rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .section-center {
+    width: 95vw;
+    padding: 4rem 1rem;
+  }
+
+  .about-us-img {
+    float: left;
+    width: 50%;
+  }
+
+  .about-us-info {
+    float: right;
+    width: 50%;
+  }
+
+  .product {
+    width: 33.3%;
+  }
+
+  .service-card {
+    width: 30%;
+    margin-left: 3.33%;
+  }
+
+  .contact article{
+    float: right;
+    width: 505px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .feature {
+    width: 25%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .products-info {
+    float: right;
+    width: 30%;
+  }
+
+  .products-card {
+    float: left;
+    width: 70%;
+  }
+
+  .product {
+    padding-left: 0;
+    padding-right: 2rem;
+    margin-bottom: 0;
+  }
+}
