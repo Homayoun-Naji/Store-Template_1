@@ -31,6 +31,6 @@ __it has 5 pages and it is responsive!__
 2.  Go to the directory
 3.  Open index.html with your browser
 
-## Author
+## Developer
 
 [Homayoun Naji](https://github.com/Homayoun-Naji)
